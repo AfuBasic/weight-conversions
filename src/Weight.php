@@ -2,7 +2,7 @@
 
 namespace Afubasic\WeightConversions;
 
-class WeightConversionsClass
+class Weight
 {
     protected float $kilograms;
 
