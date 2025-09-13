@@ -1,7 +1,7 @@
 # Weight conversions in php
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/afubasic/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/afubasic/weight-conversions)
-[![Tests](https://img.shields.io/github/actions/workflow/status/afubasic/weight-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/afubasic/weight-conversions/actions/workflows/run-tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/afubasic/weight-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/AfuBasic/weight-conversions/actions/workflows/php.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/afubasic/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/afubasic/weight-conversions)
 
 This is a weight conversion package written in php.
